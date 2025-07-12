@@ -1,0 +1,12 @@
+{
+    "nome": "Gabriel Neves",
+    "energia": 95,
+    "localizacao_atual": "Acampamento na clareira",
+    "inventario": [
+        "Adaga de Ferro",
+        "Pederneira",
+        "Moeda de Prata",
+        "Fruta Silvestre Energizante"
+    ],
+    "dia_da_jornada": 5
+}
