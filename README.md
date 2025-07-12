@@ -1,0 +1,1 @@
+# IA-geradora-de-narrativas
